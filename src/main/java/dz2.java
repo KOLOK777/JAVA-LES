@@ -23,6 +23,7 @@ public class dz2 {
         String[] strings = line.replaceAll("\\p{P}","").split(" ");
         System.out.println(strings);
 
+
 //        StringBuilder builder = new StringBuilder("Hello World!");
 //        System.out.println(str.repeat(4).replace("!", "?"));
 
