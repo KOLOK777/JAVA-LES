@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class seminar6 {
+import java.util.*;
+public class seminar6 {
+    public static void main(String[] args) {
+
+
+
+
+    }
 }
