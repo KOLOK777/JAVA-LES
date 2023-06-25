@@ -80,7 +80,8 @@ public class dz2 {
 
         Double sum4;
         sum4 = Double.valueOf(strings4[0]) + Double.valueOf(strings4[1]);
-        System.out.println(sum4);
+        String sum41 = String.valueOf(sum4);
+        System.out.println(line4 + sum41);
 
 //        for (j = 1; j < strings4.length; j++) {
 //            sum4 += Double.valueOf(strings4[j]);
