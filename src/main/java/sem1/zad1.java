@@ -1,5 +1,7 @@
-public class sem1 {
+package semExceptions;
+
+public class zad1 {
     public static void main(String[] args) {
-        
+
     }
 }
